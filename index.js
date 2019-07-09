@@ -9,7 +9,7 @@ function yourAnimal(string) {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   animal = 'cat'
-  
+
   return animal
 }
 
